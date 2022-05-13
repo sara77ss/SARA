@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+    width: auto;
+    background-color: #A78586;
+}
+header {
+    height: 116px;
+    margin-top: -1032px;
+    margin-left: -1658px;
+}
+.i {
+    margin-top: 11px;
+    margin-left: 650px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+}
+img {
+}
+body nav a {
+    width: 22px;
+    height: 72px;
+    margin-left: 8px;
+    margin-right: 123px;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: 117px;
+    margin-bottom: -70px;
+}
